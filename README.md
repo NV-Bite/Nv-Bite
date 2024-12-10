@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/logo.png" alt="Logo NutriKita" style="width: 20%;">
+  <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Logo Nv-Bite" style="width: 20%;">
   <h1>Mobile Application</h1>
-  <p>NutriKita Apps was created by mobile development member using CameraX, Retrofit, Room, and Firebase to build features such as authentication feature, custom food feature, check food nutrition feature, favorite food feature, and profile edit feature. Beside that, mobile development member also build another features such as splash screen, localization, etc.
+  <p>Nv-Bite Apps was created by mobile development member using upload imaage, Retrofit, Room, and Firebase to build features such as authentication feature, custom food feature, check food nutrition feature, favorite food feature, and profile edit feature. Beside that, mobile development member also build another features such as splash screen, localization, etc.
 </p>
 </div>
 
