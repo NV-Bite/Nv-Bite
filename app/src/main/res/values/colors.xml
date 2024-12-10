@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkGray">#323232</color>
+    <color name="mediumGray">#808080</color>
+    <color name="darkGreen">#49863B</color>
+    <color name="brightGreen">#54B800</color>
+    <color name="lightGray">#737373</color>
+    <color name="miscButtonGray">#AAA6A6</color>
+    <color name="veryLightGray">#FCFCFC</color>
+    <color name="softGray">#D9D9D9</color>
+    <color name="deepGreen">#44804B</color>
+    <color name="whiteGreen">#88C37B</color>
+    <color name="mutedGray">#929292</color>
+    <color name="backgroundGray">#FBFBFB</color>
+    <color name="charcoalGray">#474747</color>
+    <color name="extraLightGray">#EEEEEE</color>
+    <color name="lightBeige">#F9F2E4</color>
+    <color name="vibrantGreen">#1BAA56</color>
+    <color name="charcoalBlack">#1F1F1F</color>
+    <color name="softPink">#9E616A</color>
+    <color name="paleGray">#D6D5D4</color>
+    <color name="midnightGray">#2F2E41</color>
+    <color name="blueAccent">#6C63FF</color>
+    <color name="offWhite">#F0F0F0</color>
+    <color name="orangeAccent">#FBB03B</color>
+    <color name="darkSlate">#3F3D56</color>
+    <color name="softTeal">#5EB180</color>
+    <color name="deepOlive">#26452D</color>
+    <color name="limeGreen">#45A808</color>
+    <color name="mediumDarkGray">#4D4B4B</color>
+    <color name="grayish">#7C7C7C</color>
+    <color name="lightGrayAccent">#CACACA</color>
+    <color name="nearWhite">#E1E1E1</color>
+    <color name="goldenOrange">#E29E35</color>
+    <color name="softOrange">#E9A846</color>
+    <color name="sunYellow">#FFC33E</color>
+
+
+</resources>

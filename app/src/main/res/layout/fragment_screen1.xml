@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- Gambar pojok kiri -->
+    <ImageView
+        android:id="@+id/cornerImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/gambar1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="-5dp"
+        android:layout_marginTop="-17dp" />
+
+    <!-- img Welcome -->
+    <ImageView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/welcome"
+        android:textSize="28sp"
+        android:textColor="@color/darkGreen"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp" />
+
+    <!-- Logo aplikasi -->
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/gambar2"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/welcomeText"
+        android:layout_marginTop="25dp" />
+
+    <!-- img NvBite -->
+    <ImageView
+        android:id="@+id/NVtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/nvbite"
+        android:textColor="@color/darkGreen"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_below="@id/logoImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <!-- Deskripsi aplikasi -->
+    <TextView
+        android:id="@+id/appDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/des_app"
+        android:textSize="24sp"
+        android:textColor="@color/lightGray"
+        android:gravity="center"
+        android:layout_below="@id/NVtext"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"/>
+
+    <ImageView
+        android:id="@+id/c242_ps273"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/c242_ps273"
+        android:textColor="@color/darkGreen"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_below="@id/appDescription"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Utama untuk Aplikasi -->
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna Primer -->
+        <item name="colorPrimary">@color/vibrantGreen</item>
+        <item name="colorPrimaryVariant">@color/deepGreen</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Warna Sekunder -->
+        <item name="colorSecondary">@color/blueAccent</item>
+        <item name="colorSecondaryVariant">@color/charcoalGray</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+
+    <!-- Tema Khusus untuk LoginActivity -->
+    <style name="Theme.MyApplication.Login" parent="Theme.MyApplication">
+        <item name="android:windowBackground">@color/lightBeige</item>
+    </style>
+
+    <!-- Tema Khusus untuk RegisterActivity -->
+    <style name="Theme.MyApplication.Register" parent="Theme.MyApplication">
+        <item name="android:windowBackground">@color/lightGray</item>
+    </style>
+</resources>

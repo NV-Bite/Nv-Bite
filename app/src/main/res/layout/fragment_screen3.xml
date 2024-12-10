@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- Gambar pojok kiri -->
+    <ImageView
+        android:id="@+id/cornerImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/gambar1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-5dp"
+        android:layout_marginTop="-17dp" />
+
+    <!-- Logo Aplikasi -->
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:src="@drawable/gambar2"
+        android:layout_below="@id/cornerImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <!-- What Would you Like to do -->
+    <TextView
+        android:id="@+id/prompt_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/what_would_you_like_to_do"
+        android:textStyle="bold"
+        android:textColor="@color/lightGray"
+        android:textSize="25sp"
+        android:layout_below="@id/logoImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"/>
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="217dp"
+        android:layout_height="52dp"
+        android:layout_below="@id/prompt_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/btn"
+        android:backgroundTint="@color/darkGreen"
+        android:minHeight="48dp"
+        android:text="@string/login"
+        android:textColor="@color/white" />
+
+    <!-- Register Button -->
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="210dp"
+        android:layout_height="53dp"
+        android:layout_below="@id/login_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/btn"
+        android:backgroundTint="@color/darkGreen"
+        android:minHeight="48dp"
+        android:text="@string/register"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

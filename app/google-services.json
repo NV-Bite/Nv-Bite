@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453851841682",
+    "project_id": "nvbite-ef63c",
+    "storage_bucket": "nvbite-ef63c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453851841682:android:69149c8201b34cb263924b",
+        "android_client_info": {
+          "package_name": "com.example.NVBite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpUmM8bOFL_Gf5gtdtBwNcHUBPW6zSUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
