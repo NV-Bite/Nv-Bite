@@ -42,9 +42,9 @@ Download and install the app using the APK file provided:
 1. Clone the project repository:
    ```bash
    git clone https://github.com/NV-Bite/Nv-Bite.git
- ```
+
 - Run the Application
-```
+
 
 # Mobile Development Architecture: Nv-Bite
 
