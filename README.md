@@ -39,4 +39,13 @@ Download the APK here:<br>
   <p>
     The application Nv-Bite structure consists of two main layers, namely the UI layer and the data layer. In the UI layer, a ViewModel is used that is integrated with LiveData to provide data that can be observed by components such as Activity and Fragment. Meanwhile, the data layer is responsible for managing data sources through a repository that functions as a liaison between the local database and remote web services. Communication with remote APIs is done using Retrofit, which supports the process of parsing JSON data directly. The data flow in this application starts from the UI component that subscribes to LiveData from the ViewModel, then the ViewModel retrieves data from the repository. This repository can access data from local or remote sources as needed. This approach aims to ensure optimal data management and facilitate testing
 </p>
+
+  ## Contact Us
+  <p>
+    Developer :
+    1. Teguh Aldianto
+    MD-20
+    Universitas Negeri Surabaya
+    aldinamanya08@gmail.com
+  </p>
 </div>
