@@ -39,7 +39,7 @@ Download and install the app using the APK file provided:
 - Android Studio installed on your machine.
 
 ### Steps to Install and Run
-1. Clone the project repository:
+- Clone the project repository:
    ```bash
    git clone https://github.com/NV-Bite/Nv-Bite.git
 
@@ -69,8 +69,26 @@ This **Repository** can access data from either local or remote sources based on
 
 
 
-🌐 Social Media
-🧑‍💻 Teguh Aldianto
-<div align="left"> <ul> <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/aalditgh_/" target="_blank">@aalditgh_</a></li> <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/teguh-aldianto-705b53298/" target="_blank">Teguh Aldianto</a></li> <li>🎓 <strong>Education</strong>: D4 - Manajemen Informatika</li> <li>🏫 <strong>University</strong>: Universitas Negeri Surabaya (UNESA)</li> </ul> </div>
-🧑‍💻 Evy Nur Octaviani
-<div align="left"> <ul> <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/evy.vyoca/" target="_blank">@evy.vyoca</a></li> <li>🔗 <strong>LinkedIn</strong>: <a href="http://www.linkedin.com/in/evy-nur-octaviani-b38a87257" target="_blank">Evy Nur Octaviani</a></li> <li>🎓 <strong>Education</strong>: S1 - Teknik Elektro</li> <li>🏫 <strong>University</strong>: Universitas Negeri Semarang (UNNES)</li> </ul> </div> ```
+## 🌐 Social Media
+
+### 🧑‍💻 Teguh Aldianto
+<div align="left">
+  <ul>
+    <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/aalditgh_/" target="_blank">@aalditgh_</a></li>
+    <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/teguh-aldianto-705b53298/" target="_blank">Teguh Aldianto</a></li>
+    <li>🎓 <strong>Pendidikan</strong>: D4 Manajemen Informatika</li>
+    <li>🏫 <strong>Universitas</strong>: Universitas Negeri Surabaya (UNESA)</li>
+  </ul>
+</div>
+
+---
+
+### 🧑‍💻 Evy Nur Octaviani
+<div align="left">
+  <ul>
+    <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/evy.vyoca/" target="_blank">@evy.vyoca</a></li>
+    <li>🔗 <strong>LinkedIn</strong>: <a href="http://www.linkedin.com/in/evy-nur-octaviani-b38a87257" target="_blank">Evy Nur Octaviani</a></li>
+    <li>🎓 <strong>Pendidikan</strong>: S1 Teknik Elektro</li>
+    <li>🏫 <strong>Universitas</strong>: Universitas Negeri Semarang (UNNES)</li>
+  </ul>
+</div>
