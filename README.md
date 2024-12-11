@@ -34,12 +34,27 @@ Download the APK here:<br>
 - Run the Application
 
 
-## Mobile Development Architecture 
-<div align="center">
-  <p>
-    The application Nv-Bite structure consists of two main layers, namely the UI layer and the data layer. In the UI layer, a ViewModel is used that is integrated with LiveData to provide data that can be observed by components such as Activity and Fragment. Meanwhile, the data layer is responsible for managing data sources through a repository that functions as a liaison between the local database and remote web services. Communication with remote APIs is done using Retrofit, which supports the process of parsing JSON data directly. The data flow in this application starts from the UI component that subscribes to LiveData from the ViewModel, then the ViewModel retrieves data from the repository. This repository can access data from local or remote sources as needed. This approach aims to ensure optimal data management and facilitate testing
-</p>
-</div>
+# Mobile Development Architecture: Nv-Bite
+
+The architecture of the **Nv-Bite** application is designed with two primary layers:  
+**UI Layer** and **Data Layer**.
+
+### UI Layer
+In the **UI Layer**, a **ViewModel** is integrated with **LiveData** to supply data that can be observed by components like **Activity** and **Fragment**.
+
+### Data Layer
+The **Data Layer** is responsible for managing data sources through a **Repository**, which acts as a bridge between the local database and remote web services.
+
+### Communication with Remote APIs
+Communication with remote APIs is handled via **Retrofit**, which streamlines the process of parsing JSON data.
+
+### Data Flow
+Data flow in this application follows a structured approach: it starts from the **UI Component**, which subscribes to **LiveData** provided by the **ViewModel**, and then the **ViewModel** retrieves the data from the **Repository**.
+
+This **Repository** can access data from either local or remote sources based on the need. This architecture ensures optimal data management and simplifies testing, making the app efficient and robust.
+
+> **Note**: This architecture follows the best practices in mobile development, focusing on maintainability and scalability.
+
 
 
 ## 🌐 Social Media
