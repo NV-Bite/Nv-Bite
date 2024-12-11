@@ -49,7 +49,9 @@ Download the APK here:<br>
 - **LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
 - **Pendidikan**: D4 Manajemen Informatika  
 - **Universitas**: Universitas Negeri Surabaya (UNESA)
+</div>
 
+<div>
 ### Evy Nur Octaviani
 - **Instagram**: [evy.vyoca](https://www.instagram.com/evy.vyoca/)
 - **LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
