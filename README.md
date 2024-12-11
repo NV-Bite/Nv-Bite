@@ -29,15 +29,14 @@ Download the APK here:<br>
 #### Steps
 - Clone project
  ```bash
- $ git clone https://github.com/Bangkit-2023-Capstone-CH2-PS307/MD.git
+ $ git clone https://github.com/NV-Bite/Nv-Bite.git
  ```
 - Run the Application
 
 
-## Mobile Development Architecture [Model-View-ViewModel Architecture]
+## Mobile Development Architecture 
 <div align="center">
   <p>
-    The application structure consists of two main layers, namely the UI layer and the data layer. In the UI layer, a ViewModel is used that is integrated with LiveData to provide data that can be observed by components such as Activity and Fragment. Meanwhile, the data layer is responsible for managing data sources through a repository that functions as a liaison between the local database and remote web services. Communication with remote APIs is done using Retrofit, which supports the process of parsing JSON data directly. The data flow in this application starts from the UI component that subscribes to LiveData from the ViewModel, then the ViewModel retrieves data from the repository. This repository can access data from local or remote sources as needed. This approach aims to ensure optimal data management and facilitate testing
+    The application Nv-Bite structure consists of two main layers, namely the UI layer and the data layer. In the UI layer, a ViewModel is used that is integrated with LiveData to provide data that can be observed by components such as Activity and Fragment. Meanwhile, the data layer is responsible for managing data sources through a repository that functions as a liaison between the local database and remote web services. Communication with remote APIs is done using Retrofit, which supports the process of parsing JSON data directly. The data flow in this application starts from the UI component that subscribes to LiveData from the ViewModel, then the ViewModel retrieves data from the repository. This repository can access data from local or remote sources as needed. This approach aims to ensure optimal data management and facilitate testing
 </p>
-  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/MD%20Architecture.png" alt="Model-View-ViewModel Architecture" style="width: 100%;">
 </div>
