@@ -42,19 +42,26 @@ Download the APK here:<br>
 </div>
 
 
-## Social Media
-### Teguh Aldianto
-<div>
-- **Instagram**: [aalditgh_](https://www.instagram.com/aalditgh_/)
-- **LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
-- **Pendidikan**: D4 Manajemen Informatika  
-- **Universitas**: Universitas Negeri Surabaya (UNESA)
+## 🌐 Social Media
+
+### 🧑‍💻 Teguh Aldianto
+<div align="left">
+  <ul>
+    <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/aalditgh_/" target="_blank">@aalditgh_</a></li>
+    <li>🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/teguh-aldianto-705b53298/" target="_blank">Teguh Aldianto</a></li>
+    <li>🎓 <strong>Pendidikan</strong>: D4 Manajemen Informatika</li>
+    <li>🏫 <strong>Universitas</strong>: Universitas Negeri Surabaya (UNESA)</li>
+  </ul>
 </div>
 
-### Evy Nur Octaviani
-<div>
-- **Instagram**: [evy.vyoca](https://www.instagram.com/evy.vyoca/)
-- **LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
-- **Pendidikan**: S1 Teknik Elektro  
-- **Universitas**: Universitas Negeri Semarang (UNNES)
+---
+
+### 🧑‍💻 Evy Nur Octaviani
+<div align="left">
+  <ul>
+    <li>🌟 <strong>Instagram</strong>: <a href="https://www.instagram.com/evy.vyoca/" target="_blank">@evy.vyoca</a></li>
+    <li>🔗 <strong>LinkedIn</strong>: <a href="http://www.linkedin.com/in/evy-nur-octaviani-b38a87257" target="_blank">Evy Nur Octaviani</a></li>
+    <li>🎓 <strong>Pendidikan</strong>: S1 Teknik Elektro</li>
+    <li>🏫 <strong>Universitas</strong>: Universitas Negeri Semarang (UNNES)</li>
+  </ul>
 </div>
