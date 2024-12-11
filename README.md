@@ -12,17 +12,16 @@
 ## Tools & Libraries
 - [Android Studio](https://developer.android.com/studio)
 - Retrofit
-- [Room](https://developer.android.com/jetpack/androidx/releases/room)
-- [CameraX](https://developer.android.com/training/camerax)
+- [Camera](https://developer.android.com/training/camerax)
 - [Figma](https://www.figma.com/)
 - [Firebase](https://firebase.google.com/)
 
 ## Demo Apps
-[NutriKita Demo Apps](https://drive.google.com/file/d/1ZUX8kb0fgL67HkWwY1MDMahEqdRhZg8Y/view)
+[Nv-Bite Demo Apps](https://drive.google.com/drive/folders/1DfzBSgjT7R15S7XegnUYdNYHs7T4s_sP)
 
 ## Download APK
 Download the APK here:<br>
-[NutriKita APK](https://drive.google.com/file/d/1WnLHmuKmRjj20Ed3vNd-Wnq2w83Yr88y/view?usp=drive_link)
+[Nv-Bite APK](https://drive.google.com/drive/folders/1_irbazW6Y5N4acEu76stJgbow7ho8mbp)
 
 ## Installation
 #### Prerequisites
