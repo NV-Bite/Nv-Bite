@@ -39,20 +39,22 @@ Download the APK here:<br>
   <p>
     The application Nv-Bite structure consists of two main layers, namely the UI layer and the data layer. In the UI layer, a ViewModel is used that is integrated with LiveData to provide data that can be observed by components such as Activity and Fragment. Meanwhile, the data layer is responsible for managing data sources through a repository that functions as a liaison between the local database and remote web services. Communication with remote APIs is done using Retrofit, which supports the process of parsing JSON data directly. The data flow in this application starts from the UI component that subscribes to LiveData from the ViewModel, then the ViewModel retrieves data from the repository. This repository can access data from local or remote sources as needed. This approach aims to ensure optimal data management and facilitate testing
 </p>
+</div>
 
+<div align="center">
 ## Social Media
 
 ### Teguh Aldianto
-**Instagram**: [aalditgh_](https://www.instagram.com/aalditgh_/)
-**LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
-**Pendidikan**: D4 Manajemen Informatika  
-**Universitas**: Universitas Negeri Surabaya (UNESA)
+- **Instagram**: [aalditgh_](https://www.instagram.com/aalditgh_/)
+- **LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
+- **Pendidikan**: D4 Manajemen Informatika  
+- **Universitas**: Universitas Negeri Surabaya (UNESA)
 
 ### Evy Nur Octaviani
-**Instagram**: [evy.vyoca](https://www.instagram.com/evy.vyoca/)
-**LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
-**Pendidikan**: S1 Teknik Elektro  
-**Universitas**: Universitas Negeri Semarang (UNNES)
+- **Instagram**: [evy.vyoca](https://www.instagram.com/evy.vyoca/)
+- **LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
+- **Pendidikan**: S1 Teknik Elektro  
+- **Universitas**: Universitas Negeri Semarang (UNNES)
 
 
 </div>
