@@ -1,9 +1,30 @@
 <div align="center">
-  <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/Group%20236.png" style="width: 20%;">
+  <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/Group%20236.png" width="30%" alt="Nv-Bite Logo">
   <h1>Mobile Application</h1>
-  <p>Nv-Bite Apps was created by mobile development member using upload imaage, Retrofit, Room, and Firebase to build features such as authentication feature, custom food feature, check food nutrition feature, favorite food feature, and profile edit feature. Beside that, mobile development member also build another features such as splash screen, localization, etc.
-</p>
+  <p>
+    **Nv-Bite** is a mobile application developed by the team using modern tools and technologies. It incorporates features such as:
+  </p>
+  <ul>
+    <li>**Image Upload**</li>
+    <li>**Retrofit** for API communication</li>
+    <li>**Room** for local database management</li>
+    <li>**Firebase** for authentication and backend services</li>
+  </ul>
+  <p>
+    Key features include:
+  </p>
+  <ul>
+    <li>**Authentication** feature</li>
+    <li>**Custom Food** feature</li>
+    <li>**Food Nutrition** checking feature</li>
+    <li>**Favorite Food** feature</li>
+    <li>**Profile Edit** feature</li>
+  </ul>
+  <p>
+    Additionally, the app also includes **Splash Screen**, **Localization**, and many other enhancements to improve the user experience.
+  </p>
 </div>
+
 
 <div align="center">
   <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Result App" style="width: 100%;">
