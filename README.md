@@ -41,9 +41,9 @@ Download the APK here:<br>
 </p>
 </div>
 
-<div align="center">
-## Social Media
 
+## Social Media
+<div>
 ### Teguh Aldianto
 - **Instagram**: [aalditgh_](https://www.instagram.com/aalditgh_/)
 - **LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
@@ -55,6 +55,4 @@ Download the APK here:<br>
 - **LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
 - **Pendidikan**: S1 Teknik Elektro  
 - **Universitas**: Universitas Negeri Semarang (UNNES)
-
-
 </div>
