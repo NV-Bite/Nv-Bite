@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/Group%20236.png" style="width: 20%;">
-  <h1>Mobile Application</h1>
+  <h1>Mobile Application Nv-Bite</h1>
   <p>Nv-Bite Apps was created by mobile development member using upload imaage, Retrofit, Room, and Firebase to build features such as authentication feature, custom food feature, check food nutrition feature, favorite food feature, and profile edit feature. Beside that, mobile development member also build another features such as splash screen, localization, etc.
 </p>
 </div>
