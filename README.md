@@ -43,16 +43,16 @@ Download the APK here:<br>
 
 
 ## Social Media
-<div>
 ### Teguh Aldianto
+<div>
 - **Instagram**: [aalditgh_](https://www.instagram.com/aalditgh_/)
 - **LinkedIn**: [Teguh Aldianto](https://www.linkedin.com/in/teguh-aldianto-705b53298/)
 - **Pendidikan**: D4 Manajemen Informatika  
 - **Universitas**: Universitas Negeri Surabaya (UNESA)
 </div>
 
-<div>
 ### Evy Nur Octaviani
+<div>
 - **Instagram**: [evy.vyoca](https://www.instagram.com/evy.vyoca/)
 - **LinkedIn**: [Evy Nur Octaviani](http://www.linkedin.com/in/evy-nur-octaviani-b38a87257)
 - **Pendidikan**: S1 Teknik Elektro  
