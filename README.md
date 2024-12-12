@@ -12,12 +12,10 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
 
 ## Features
 
-- **Create Exam**: Users can create and customize exams.
-- **Join Exam**: Users can join exams using unique exam codes.
-- **History**: Track and view the user's exam history.
-- **Settings**: Adjust app settings and preferences.
+- **History**: Review and monitor your Carbon Footprint records.  
+- **Profile Settings**: Customize the app's settings and preferences.  
 
-## Tech Stack
+## Tools & library
 - [Android Studio](https://developer.android.com/studio)  
 - [Retrofit](https://square.github.io/retrofit/)  
 - [CameraX](https://developer.android.com/training/camerax)  
