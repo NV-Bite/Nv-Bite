@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://github.com/NV-Bite/Nv-Bite-App/blob/master/util/logo%20nvbite.png" style="width: 20%;" alt="Nv-Bite Logo">
+  <img src="https://github.com/NV-Bite/Nv-Bite-App/blob/master/util/logo%20nvbite.png" style="width: 10%;" alt="Nv-Bite Logo">
   <h1>Mobile Application Nv-Bite</h1>
   <p>
 NV-Bite is a mobile application developed by the Mobile Development Team using modern tools and libraries like Retrofit, Room, and Firebase. The app focuses on sustainability by incorporating features such as Carbon Footprint Detection, personalized sustainability tips, and the Pick-Drop Map. Additional features include a splash screen, login user, and more.
   </p>
 </div>
 
-<div align="center">
-   <a href="https://github.com/NV-Bite/Nv-Bite-App/blob/master/util/NV-Bite.png"><img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
-</div>
+
+<a href="https://github.com/NV-Bite/Nv-Bite-App/blob/master/util/NV-Bite.png"><img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
 
 ## 🚀 Tools & Libraries
 - [Android Studio](https://developer.android.com/studio)  
