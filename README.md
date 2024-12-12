@@ -9,12 +9,21 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
 
 <a href="https://www.figma.com/design/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=R3m69bsPQAWN9Cud-1"><img src="https://github.com/NV-Bite/Nv-Bite-App/blob/master/util/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
 
-## 🚀 Tools & Libraries
+
+## Features
+
+- **Create Exam**: Users can create and customize exams.
+- **Join Exam**: Users can join exams using unique exam codes.
+- **History**: Track and view the user's exam history.
+- **Settings**: Adjust app settings and preferences.
+
+## Tech Stack
 - [Android Studio](https://developer.android.com/studio)  
 - [Retrofit](https://square.github.io/retrofit/)  
 - [CameraX](https://developer.android.com/training/camerax)  
 - [Figma](https://www.figma.com/)  
-- [Firebase](https://firebase.google.com/)  
+- [Firebase](https://firebase.google.com/)
+
 
 ## 🎥 Demo Apps
 Explore the application demo here:  
@@ -23,6 +32,12 @@ Explore the application demo here:
 ## 📱 Downloadable APK
 Download and install the app using the APK file provided:  
 [Nv-Bite APK](https://drive.google.com/drive/folders/1_irbazW6Y5N4acEu76stJgbow7ho8mbp)
+
+## Requirements
+
+- **Android Studio**: Use Android Studio for building and running the project.
+- **Android SDK 24+**: Minimum SDK version is 24.
+- **Gradle**: For building and managing project dependencies.
 
 ## Setup Instructions
 
