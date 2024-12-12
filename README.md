@@ -29,7 +29,7 @@ Download and install the app using the APK file provided:
 1. **Clone the Repository**  
    Begin by cloning the repository to your local machine:  
    ```bash
-   git clone https://github.com/il4mb/eduDoExam.git
+   https://github.com/NV-Bite/Nv-Bite-App.git
    ```  
 
 2. **Launch Android Studio**  
