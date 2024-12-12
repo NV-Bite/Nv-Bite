@@ -10,8 +10,6 @@
   <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;">
 </div>
 
----
-
 ## 🚀 Tools & Libraries
 - [Android Studio](https://developer.android.com/studio)  
 - [Retrofit](https://square.github.io/retrofit/)  
@@ -19,11 +17,9 @@
 - [Figma](https://www.figma.com/)  
 - [Firebase](https://firebase.google.com/)  
 
----
-
 ## 🎥 Demo Apps
 Explore the application demo here:  
-[Nv-Bite Demo Apps](https://drive.google.com/drive/folders/1DfzBSgjT7R15S7XegnUYdNYHs7T4s_sP)
+[Nv-Bite Demo Apps](https://youtu.be/fdwMxzZ0uAc?si=fJ0IkGcVNDNdDTk0)
 
 ---
 
