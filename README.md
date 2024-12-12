@@ -27,7 +27,7 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
 Explore the application demo here:  
 [Nv-Bite Demo Apps](https://youtu.be/fdwMxzZ0uAc?si=fJ0IkGcVNDNdDTk0)
 
-## 📱 Downloadable APK
+## 📱 Download APK
 Download and install the app using the APK file provided:  
 [Nv-Bite APK](https://drive.google.com/drive/folders/1_irbazW6Y5N4acEu76stJgbow7ho8mbp)
 
