@@ -2,7 +2,7 @@
   <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/Group%20236.png" style="width: 20%;" alt="Nv-Bite Logo">
   <h1>Mobile Application Nv-Bite</h1>
   <p>
-    Nv-Bite is a mobile application developed by the Mobile Development Team using modern tools and libraries such as Retrofit, Room, and Firebase. The application includes features like user authentication, custom food creation, food nutrition checks, favorite food management, and profile editing. Additional features include a splash screen, localization support, and more.
+NV-Bite is a mobile application developed by the Mobile Development Team using modern tools and libraries like Retrofit, Room, and Firebase. The app focuses on sustainability by incorporating features such as Carbon Footprint Detection, personalized sustainability tips, and the Pick-Drop Map. Additional features include a splash screen, login user, and more.
   </p>
 </div>
 
