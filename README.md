@@ -24,19 +24,23 @@ Explore the application demo here:
 Download and install the app using the APK file provided:  
 [Nv-Bite APK](https://drive.google.com/drive/folders/1_irbazW6Y5N4acEu76stJgbow7ho8mbp)
 
-## 🛠️ Installation
+## Setup Instructions
 
-### Prerequisites
-- Android Studio installed on your machine.
-
-### Steps to Install and Run
-- Clone the project repository:
+1. **Clone the Repository**  
+   Begin by cloning the repository to your local machine:  
    ```bash
-   git clone https://github.com/NV-Bite/Nv-Bite.git
+   git clone https://github.com/il4mb/eduDoExam.git
+   ```  
 
-- Run the Application
+2. **Launch Android Studio**  
+   Open Android Studio and select the option **Open an existing project**, then navigate to the directory where the project is located.  
 
----
+3. **Sync with Gradle**  
+   Allow Android Studio to sync the project with Gradle automatically. Ensure that all required dependencies are downloaded during the sync process.  
+
+4. **Run the Application**  
+   - Connect your Android device to your computer or set up an Android emulator.  
+   - In Android Studio, click the **Run** button to build and install the application on your chosen device or emulator.  
 
 # Mobile Development Architecture: Nv-Bite
 
