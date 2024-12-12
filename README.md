@@ -7,7 +7,7 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
 </div>
 
 <div align="center">
-  <img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;">
+   <a href="https://www.figma.com/design/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=R3m69bsPQAWN9Cud-1"><img src="https://github.com/NV-Bite/Nv-Bite/blob/master/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
 </div>
 
 ## 🚀 Tools & Libraries
@@ -21,7 +21,7 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
 Explore the application demo here:  
 [Nv-Bite Demo Apps](https://youtu.be/fdwMxzZ0uAc?si=fJ0IkGcVNDNdDTk0)
 
-## 📱 Download APK
+## 📱 Downloadable APK
 Download and install the app using the APK file provided:  
 [Nv-Bite APK](https://drive.google.com/drive/folders/1_irbazW6Y5N4acEu76stJgbow7ho8mbp)
 
