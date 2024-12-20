@@ -6,7 +6,7 @@ NV-Bite is a mobile application developed by the Mobile Development Team using m
   </p>
 </div>
 
-<a href="https://www.figma.com/design/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=R3m69bsPQAWN9Cud-1"><img src="https://github.com/NV-Bite/.github/blob/main/assets/md_image/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
+<a href="https://www.figma.com/design/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=gnKIrgR3cLtzpGf9-1"><img src="https://github.com/NV-Bite/.github/blob/main/assets/md_image/NV-Bite.png" alt="Nv-Bite Application Preview" style="width: 100%;"></a>
 
 ## Features
 
